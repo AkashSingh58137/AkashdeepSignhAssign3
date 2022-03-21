@@ -1,0 +1,12 @@
+<!--Name :- Akashdeep Singh /n Student no:- n01458137 \n Section no:- RNC-->
+<resources>
+    <string name="app_name">AkashLab1</string>
+    <string name="Welcome">Welcome \n Akashdeep Singh  \n n01458137</string>
+    <string name="humber">Humber.ca</string>
+    <string name="toast">Akashdeep Singh humber.ca</string>
+    <string name="second_screen">Second screen</string>
+    <string name="Second_screen">My Second Screen \n Akashdeep Singh \n n01458137</string>
+    <string name="Name">Welcome \n Akashdeep Singh \n n01458137</string>
+    <string name="Text" translatable="false"></string>
+    <string name="Snackbar">Akashdeep Singh 2nd Screen</string>
+</resources>
